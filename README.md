@@ -15,10 +15,7 @@ Then we trained it on different classification model like MLP,randomforest,logis
 for different vector sizes 50,100,200,300 and noted that **MUltilayer perceptron** performed well in 
 every case.So we saved the MLP model in .pickle file and used it in endproject (deployment time).
 
-This was my accuracy score (pic from kaggle page) =>
-
-![image](https://user-images.githubusercontent.com/56029669/145625084-fc0de96d-7c35-4f90-8a16-47be92b55b0c.png)
-
+The accuracy I got after submitting the prediction file was 0.9603 for MLP algorithm.
 
 to check how this model works on new article ,proceed as per following steps:<br/>
 ---> 1) run the app.py using **streamlit run app.py"** command (if it fails then for windows use *py -m streamlit run app.py*) <br/>
