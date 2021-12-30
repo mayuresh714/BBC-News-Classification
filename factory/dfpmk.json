@@ -1,0 +1,9 @@
+{
+	"name": "dfpmk",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d053aa9-da24-4eba-8be7-7b6b63bbd46c",
+		"tenantId": "0f004b2e-fb07-45e7-a568-caf4905b0339"
+	}
+}
